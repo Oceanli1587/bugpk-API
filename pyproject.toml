@@ -1,0 +1,7 @@
+[project]
+name = "bugpk-mcp"
+version = "0.1.0"
+dependencies = [
+  "fastmcp",
+  "httpx"
+]
