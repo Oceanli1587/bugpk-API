@@ -1,4 +1,8 @@
 {
-  "command": "python",
-  "args": ["main.py"]
+  "mcpServers": {
+    "bugpk-music": {
+      "command": "python",
+      "args": ["main.py"]
+    }
+  }
 }
